@@ -18,6 +18,7 @@ public class p126Arraylist {
         people[1]=p2;
         people[2]=p3;
         System.out.println(people);
+        System.out.println("=========服务器连接失败，Push failed");
 
         System.out.println(people[0]);
         System.out.println(people[1]);
