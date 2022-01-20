@@ -1,4 +1,4 @@
-package Jan.Day20;
+package Jan.Day20.Arraylist;
 
 public class p126Arraylist {
     public static void main(String[] args) {
