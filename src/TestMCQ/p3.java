@@ -1,4 +1,5 @@
 package TestMCQ;
 
-public class p3 {
+public interface p3 {
+
 }
