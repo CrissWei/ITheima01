@@ -21,7 +21,7 @@ You must use the Random class nextInt(int bound), nextDouble() methods and char 
 * */
 public class S2004131_Q1 {
     public static void main(String[] args) {
-
+        System.out.println("===");
         methodQ1();
         System.out.println("===");
         methodQ2();
