@@ -119,6 +119,7 @@ public class S2004131_Q1 {
         for (int i = 0; i < 3; i++) {
             double price = 100 + 200 * random.nextDouble();
             System.out.println(String.format("%.2f", price));
+            //System.out.printf("%.2f", price);
         }
     }
 }
